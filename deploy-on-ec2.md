@@ -377,4 +377,5 @@ You successfully deployed:
 
 # Prepared by:
 *Shaik Moulali*
-*Email:* moula.cloud5@gmail.com
+*Multi Cloud and DevOps Consultant*
+*Email: moula.cloud5@gmail.com*

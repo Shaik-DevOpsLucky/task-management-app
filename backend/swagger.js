@@ -8,8 +8,8 @@ const options = {
       version: '1.0.0',
       description: 'API documentation for the Task Management application',
       contact: {
-        name: 'Manthan Ankolekar',
-        url: 'https://task-management-app-manthanank.vercel.app/',
+        name: 'ShaikMoulali',
+        url: 'https://task-management-app-ShaikMoulali.vercel.app/',
       },
     },
     servers: [

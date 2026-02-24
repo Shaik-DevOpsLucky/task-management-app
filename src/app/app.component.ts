@@ -30,10 +30,10 @@ export class AppComponent implements OnInit {
       { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' },
       {
         rel: 'canonical',
-        href: 'https://task-management-app-manthanank.vercel.app/',
+        href: 'https://task-management-app-ShaikMoulali.vercel.app/',
       },
       { property: 'og:title', content: 'Task Management App' },
-      { name: 'author', content: 'Manthan Ankolekar' },
+      { name: 'author', content: 'ShaikMoulali' },
       { name: 'keywords', content: 'angular, nodejs. express, mongodb' },
       { name: 'robots', content: 'index, follow' },
       {
@@ -43,11 +43,11 @@ export class AppComponent implements OnInit {
       },
       {
         property: 'og:image',
-        content: 'https://task-management-app-manthanank.vercel.app/image.jpg',
+        content: 'https://task-management-app-ShaikMoulali.vercel.app/image.jpg',
       },
       {
         property: 'og:url',
-        content: 'https://task-management-app-manthanank.vercel.app/',
+        content: 'https://task-management-app-ShaikMoulali.vercel.app/',
       },
     ]);
   }

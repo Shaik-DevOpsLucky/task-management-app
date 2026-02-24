@@ -124,4 +124,4 @@ This is a full-stack task management application built using Angular, Node.js, E
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 # Prepared by:
-*Shaik Moulali*
+*ShaikMoulali*
