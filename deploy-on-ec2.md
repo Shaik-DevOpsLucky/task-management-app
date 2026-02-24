@@ -374,8 +374,15 @@ You successfully deployed:
 ✔ EC2 Production Setup
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/adccbe79-0114-4d97-9044-8b486760c4e7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a676a6d-e55c-461d-abbc-64e1678df6ef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c007a452-8483-4eed-83b8-4c7ee5e8b8fc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ed2c428-95ca-4c40-ba49-953f52db92b7" />
+
+
+
 
 # Prepared by:
-*Shaik Moulali*
-*Multi Cloud and DevOps Consultant*
-*Email: moula.cloud5@gmail.com*
+# *Shaik Moulali*
+# *Multi Cloud and DevOps Consultant*
+# *Email: moula.cloud5@gmail.com*
